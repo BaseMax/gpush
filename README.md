@@ -2,6 +2,8 @@
 
 A cross-platform Git helper script to streamline adding, committing, and pushing changes. Works on Linux, macOS, and Windows (via WSL or Git Bash).
 
+> gpush is a simple, cross-platform Git helper script designed to streamline the process of staging, committing, and pushing changes to a Git repository. It supports Linux, macOS, and Windows (via Bash or Command Prompt), allowing developers to save time with a single command.
+
 ## Features
 
 - Simplifies the `git add`, `git commit`, and `git push` process.
