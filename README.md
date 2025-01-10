@@ -14,7 +14,8 @@ A cross-platform Git helper script to streamline adding, committing, and pushing
 
 - Git must be installed on your system.
 - For Windows users:
-  - Use Git Bash or WSL for best compatibility.
+  - Use Git Bash or WSL for best compatibility if you want to use `gpush.sh`.
+  - Use `gpush.bat` script for Windows
 
 ## Installation
 
@@ -65,8 +66,8 @@ gpush "Your custom commit message"
 gpush
 ```
 
-**View help information:
-**
+**View help information:**
+
 ```bash
 gpush -h
 ```
